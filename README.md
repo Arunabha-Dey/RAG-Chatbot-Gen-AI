@@ -10,7 +10,6 @@ Tech Stack:
 - Streamlit
 - LangChain
 - FAISS
-- HuggingFace Embeddings
 - Google Gemini
 
 Features:
