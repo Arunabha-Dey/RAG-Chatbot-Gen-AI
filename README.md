@@ -18,8 +18,6 @@ Features:
 - Semantic Search
 
 Architecture:
-<img width="1024" height="1536" alt="8ad8f76a-5edf-4d70-bec5-01997450521f" src="https://github.com/user-attachments/assets/4b2110f0-8fdf-405f-942b-77a16d6deff2" />
-
 <img width="1590" height="892" alt="image" src="https://github.com/user-attachments/assets/208e51d4-cf4e-46f9-921e-ead969a296b2" />
 
 
