@@ -1,5 +1,5 @@
 # RAG-Chatbot-Gen-AI
-# RAG PDF + Website Chatbot
+## RAG AI Assistant for PDFs and Websites
 
 A GenAI-powered chatbot that answers questions from:
 - Uploaded PDFs
